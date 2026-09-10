@@ -1,0 +1,8 @@
+{
+  "apiVersion": 2,
+  "name": "theme/custom-product-text-2",
+  "title": "Custom Product Text-2",
+  "category": "woocommerce",
+  "editorScript": "file:./index.js",
+  "render": "file:./render.php"
+}
